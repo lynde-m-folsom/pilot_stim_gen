@@ -95,6 +95,13 @@ def check_for_same(cat_full_list):
             cat_full_list.at[index, 'shuffled'] = shuffle_letters(row['root'])
     return cat_full_list
 
+#function to check that the shuffled word is not a word in the dictionary and reshuffle if it is
+def check_for_word(cat_full_list, word_dict):
+    for index, row in cat_full_list.iterrows():
+        if check_word(row['shuffled'], word_dict):
+            cat_full_list.at[index, 'shuffled'] = shuffle_letters(row['root'])
+    return cat_full_list
+
 #function to check if the word is in the dictionary (needed for function below)
 def check_word(word, word_list):
     return word in word_list
