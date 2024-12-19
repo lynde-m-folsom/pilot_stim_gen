@@ -1,0 +1,13 @@
+[project]
+name = "pilot-stim-gen"
+version = "0.1.0"
+description = "Git repo for generating pilot stimuli for the anagram project"
+readme = "README.md"
+requires-python = ">=3.9"
+dependencies = [
+    "ipython>=8.18.1",
+    "nltk>=3.9.1",
+    "numpy>=2.0.2",
+    "pandas>=2.2.3",
+    "wordfreq>=3.1.1",
+]
