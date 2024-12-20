@@ -1,601 +1,601 @@
-root,shuffled,id,valid_words,valid_words2,length,Set
-have,ahve,001,['have'],['have'],4,SetA
-about,bauot,002,['about'],['about'],5,SetA
-people,poplee,003,['people'],['people'],6,SetA
-will,lliw,004,['will'],['will'],4,SetA
-there,erteh,005,"['ether', 'three', 'there']","['ether', 'three', 'there', 'heter']",5,SetA
-around,dnaour,006,"['around', 'arundo']","['around', 'arundo']",6,SetA
-just,tsju,007,['just'],"['juts', 'just']",4,SetA
-other,hrote,008,"['other', 'throe']","['other', 'hoter', 'throe']",5,SetA
-better,ttrebe,009,['better'],['better'],6,SetA
-like,ilke,010,['like'],['like'],4,SetA
-first,isftr,011,['first'],"['first', 'rifts']",5,SetA
-always,wlsaay,012,['always'],['always'],6,SetA
-more,ermo,013,"['rome', 'more']","['rome', 'more']",4,SetA
-after,atfre,014,['after'],"['fater', 'after']",5,SetA
-little,etllit,015,['little'],['little'],6,SetA
-time,temi,016,"['time', 'emit', 'mite', 'item']","['time', 'emit', 'mite', 'item']",4,SetA
-think,ihnkt,017,['think'],['think'],5,SetA
-things,ihtgsn,018,['things'],"['things', 'nights']",6,SetA
-some,seom,019,['some'],['some'],4,SetA
-right,hgrti,020,"['girth', 'right']","['girth', 'right']",5,SetA
-school,locsoh,021,['school'],['school'],6,SetA
-good,dogo,022,['good'],['good'],4,SetA
-being,begni,023,"['being', 'begin']","['binge', 'being', 'begin']",5,SetA
-please,paesel,024,"['please', 'asleep', 'elapse']","['please', 'asleep', 'elapse', 'palees', 'leapes', 'peales']",6,SetA
-only,lnyo,025,"['only', 'lyon']","['only', 'lyon']",4,SetA
-going,oigng,026,['going'],['going'],5,SetA
-family,mfaiyl,027,['family'],['family'],6,SetA
-know,kwno,028,['know'],"['wonk', 'know']",4,SetA
-still,ilstl,029,['still'],"['lilts', 'still', 'tills']",5,SetA
-second,odnsec,030,['second'],['second'],6,SetA
-over,voer,031,['over'],"['over', 'rove']",4,SetA
-never,evenr,032,"['never', 'verne', 'nerve']","['never', 'verne', 'nerve']",5,SetA
-number,rubnme,033,['number'],['number'],6,SetA
-make,kame,034,['make'],['make'],4,SetA
-world,dorwl,035,['world'],['world'],5,SetA
-public,bulpci,036,['public'],['public'],6,SetA
-then,tneh,037,['then'],['then'],4,SetA
-great,tgear,038,"['grate', 'great']","['grate', 'great']",5,SetA
-system,etyssm,039,['system'],['system'],6,SetA
-back,kabc,040,['back'],['back'],4,SetA
-while,ielwh,041,['while'],['while'],5,SetA
-person,npeosr,042,['person'],"['perons', 'person']",6,SetA
-want,wtna,043,['want'],['want'],4,SetA
-every,eyvre,044,"['every', 'veery']","['every', 'veery']",5,SetA
-enough,uhonge,045,['enough'],['enough'],6,SetA
-well,ellw,046,['well'],['well'],4,SetA
-three,eethr,047,"['ether', 'three', 'there']","['ether', 'three', 'there', 'heter']",5,SetA
-change,hgacen,048,['change'],['change'],6,SetA
-much,cumh,049,"['chum', 'much']","['chum', 'much']",4,SetA
-state,ttsae,050,"['testa', 'taste', 'state']","['taste', 'state', 'teats', 'tates', 'testa']",5,SetA
-making,nagmik,051,['making'],['making'],6,SetA
-most,otms,052,['most'],"['most', 'mots', 'toms']",4,SetA
-under,ednur,053,['under'],"['under', 'nuder', 'runed', 'duner']",5,SetA
-though,uothhg,054,['though'],['though'],6,SetA
-very,ervy,055,['very'],['very'],4,SetA
-thing,tghin,056,"['night', 'thing']","['night', 'thing']",5,SetA
-season,enosas,057,['season'],"['saones', 'season']",6,SetA
-even,neve,058,"['even', 'neve']","['even', 'neve']",4,SetA
-house,huoes,059,['house'],['house'],5,SetA
-trying,nigyrt,060,['trying'],['trying'],6,SetA
-here,rehe,061,['here'],['here'],4,SetA
-place,lcpae,062,['place'],"['place', 'calpe']",5,SetA
-united,inudte,063,"['untied', 'united']","['untied', 'united']",6,SetA
-need,edne,064,"['need', 'eden']","['need', 'eden']",4,SetA
-again,inaga,065,['again'],['again'],5,SetA
-course,cseruo,066,"['cerous', 'source', 'crouse', 'course']","['cerous', 'source', 'crouse', 'course']",6,SetA
-work,rwko,067,['work'],['work'],4,SetA
-found,ounfd,068,['found'],"['found', 'fondu']",5,SetA
-health,laethh,069,['health'],['health'],6,SetA
-year,reay,070,['year'],"['year', 'eyra', 'aery']",4,SetA
-might,thgim,071,['might'],['might'],5,SetA
-thanks,htskan,072,['thanks'],['thanks'],6,SetA
-made,dmea,073,"['made', 'dame', 'mead', 'edam']","['mead', 'emda', 'edam', 'made', 'dame']",4,SetA
-money,enoym,074,['money'],['money'],5,SetA
-social,ioscla,075,['social'],['social'],6,SetA
-take,kate,076,"['take', 'teak']","['take', 'teak']",4,SetA
-night,gnith,077,"['night', 'thing']","['night', 'thing']",5,SetA
-single,elings,078,['single'],"['single', 'lignes']",6,SetA
-many,amny,079,"['many', 'myna']","['many', 'myna']",4,SetA
-group,ogrpu,080,['group'],['group'],5,SetA
-office,fceiof,081,['office'],"['office', 'coiffe']",6,SetA
-life,flei,082,"['file', 'life']","['lief', 'file', 'life']",4,SetA
-start,sartt,083,['start'],"['tarts', 'start']",5,SetA
-become,bmceoe,084,['become'],['become'],6,SetA
-down,nodw,085,['down'],['down'],4,SetA
-times,msite,086,"['times', 'smite', 'metis']","['metis', 'items', 'mites', 'smite', 'times', 'emits']",5,SetA
-pretty,yprtte,087,['pretty'],['pretty'],6,SetA
-last,slta,088,"['slat', 'last', 'lats', 'salt']","['lats', 'slat', 'last', 'salt', 'alts']",4,SetA
-today,taody,089,['today'],"['today', 'toady']",5,SetA
-matter,atermt,090,['matter'],['matter'],6,SetA
-best,stbe,091,['best'],"['bets', 'best']",4,SetA
-point,intpo,092,"['point', 'piton', 'pinto', 'pinot']","['point', 'piton', 'pinto', 'pinot']",5,SetA
-saying,yginas,093,['saying'],['saying'],6,SetA
-such,shuc,094,['such'],['such'],4,SetA
-music,misuc,095,['music'],"['music', 'musci']",5,SetA
-friend,nfride,096,"['finder', 'friend']","['finder', 'friend']",6,SetA
-love,eovl,097,"['vole', 'love']","['vole', 'love']",4,SetA
-power,rpowe,098,['power'],['power'],5,SetA
-wanted,nedwta,099,['wanted'],['wanted'],6,SetA
-long,gonl,100,['long'],['long'],4,SetA
-water,weatr,101,['water'],['water'],5,SetA
-series,ersise,102,['series'],"['series', 'sirees', 'iseres', 'erises', 'risees']",6,SetA
-home,emho,103,['home'],['home'],4,SetA
-white,ehitw,104,"['withe', 'white']","['withe', 'white']",5,SetA
-future,ufteur,105,['future'],['future'],6,SetA
-look,okol,106,['look'],['look'],4,SetA
-small,aslml,107,['small'],"['small', 'malls']",5,SetA
-either,ehiter,108,['either'],['either'],6,SetA
-same,saem,109,"['seam', 'same', 'mesa']","['seam', 'same', 'mesa']",4,SetA
-based,daesb,110,"['based', 'beads']","['based', 'dabes', 'beads', 'bedas', 'bades']",5,SetA
-police,oecpil,111,['police'],['police'],6,SetA
-used,uesd,112,"['used', 'duse']","['used', 'dues', 'sued', 'duse']",4,SetA
-later,etrla,113,"['alert', 'ratel', 'alter', 'later']","['alert', 'later', 'ratel', 'artel', 'alter']",5,SetA
-rather,etahrr,114,['rather'],['rather'],6,SetA
-both,othb,115,['both'],['both'],4,SetA
-order,redor,116,['order'],['order'],5,SetA
-reason,orensa,117,"['reason', 'senora']","['reason', 'senora']",6,SetA
-part,trpa,118,"['trap', 'part']","['part', 'tarp', 'trap', 'rapt', 'prat']",4,SetA
-party,yatrp,119,['party'],['party'],5,SetA
-report,oterpr,120,"['porter', 'report']","['porter', 'report', 'pretor']",6,SetA
-come,eocm,121,['come'],['come'],4,SetA
-thank,katnh,122,['thank'],['thank'],5,SetA
-living,ivgnil,123,['living'],['living'],6,SetA
-find,dfni,124,['find'],['find'],4,SetA
-black,cklba,125,['black'],['black'],5,SetA
-behind,hdbein,126,['behind'],['behind'],6,SetA
-high,ihhg,127,['high'],['high'],4,SetA
-whole,whleo,128,['whole'],['whole'],5,SetA
-market,ktmrea,129,['market'],['market'],6,SetA
-help,pehl,130,['help'],['help'],4,SetA
-story,tyosr,131,['story'],"['story', 'torys', 'troys', 'tyros']",5,SetA
-former,mroerf,132,"['former', 'reform']","['former', 'reform']",6,SetA
-game,amge,133,['game'],['game'],4,SetA
-least,laets,134,"['least', 'lates', 'stael', 'tesla', 'stale', 'steal', 'slate']","['least', 'lates', 'teals', 'stael', 'stela', 'tales', 'tesla', 'taels', 'stale', 'slate', 'steal']",5,SetA
-street,trtese,135,"['tester', 'street', 'setter']","['tester', 'street', 'setter']",6,SetA
-give,gvie,136,['give'],['give'],4,SetA
-means,mensa,137,"['means', 'mensa', 'manse', 'manes']","['mensa', 'names', 'means', 'samen', 'amens', 'manse', 'manes']",5,SetA
-london,ondlno,138,['london'],['london'],6,SetA
-next,xnte,139,['next'],['next'],4,SetA
-early,ryale,140,"['relay', 'layer', 'early', 'leary']","['relay', 'layer', 'early', 'leary']",5,SetA
-chance,cnahec,141,['chance'],['chance'],6,SetA
-each,ahec,142,"['each', 'ache']","['each', 'ache']",4,SetA
-local,olcal,143,['local'],['local'],5,SetA
-father,tarfhe,144,['father'],['father'],6,SetA
-must,tums,145,"['tums', 'must', 'smut']","['tums', 'must', 'smut']",4,SetA
-young,gouny,146,['young'],['young'],5,SetA
-across,sarocs,147,['across'],"['oscars', 'across']",6,SetA
-show,hosw,148,['show'],"['whos', 'show']",4,SetA
-video,vedoi,149,['video'],['video'],5,SetA
-action,cinoat,150,"['cation', 'action', 'atonic']","['cation', 'action', 'atonic']",6,SetA
-sure,suer,151,"['user', 'sure', 'suer', 'ruse']","['suer', 'rues', 'sure', 'user', 'ruse']",4,SetB
-given,negiv,152,['given'],['given'],5,SetB
-mother,othemr,153,['mother'],['mother'],6,SetB
-feel,efel,154,"['flee', 'feel']","['flee', 'feel']",4,SetB
-level,elvel,155,['level'],['level'],5,SetB
-moment,otenmm,156,['moment'],['moment'],6,SetB
-team,etam,157,"['mate', 'meat', 'tame', 'team']","['mate', 'meat', 'tame', 'team']",4,SetB
-often,fenot,158,['often'],['often'],5,SetB
-played,ypedal,159,['played'],['played'],6,SetB
-ever,vere,160,"['veer', 'ever']","['veer', 'ever']",4,SetB
-court,ocurt,161,['court'],['court'],5,SetB
-energy,gyener,162,['energy'],['energy'],6,SetB
-keep,eepk,163,"['peek', 'keep']","['peek', 'keep', 'peke']",4,SetB
-south,othus,164,"['shout', 'south']","['shout', 'thous', 'south']",5,SetB
-summer,esmmur,165,['summer'],['summer'],6,SetB
-free,eref,166,"['free', 'reef']","['free', 'reef']",4,SetB
-death,hetda,167,['death'],"['hated', 'death']",5,SetB
-strong,orgstn,168,['strong'],['strong'],6,SetB
-away,aywa,169,['away'],['away'],4,SetB
-hours,oruhs,170,"['horus', 'hours']","['horus', 'hours']",5,SetB
-record,derocr,171,['record'],['record'],6,SetB
-left,ftel,172,"['left', 'felt']","['left', 'felt']",4,SetB
-large,ergal,173,"['glare', 'lager', 'alger', 'elgar', 'large']","['glare', 'lager', 'alger', 'elgar', 'regal', 'large']",5,SetB
-period,idproe,174,['period'],"['dopier', 'period']",6,SetB
-play,yalp,175,['play'],['play'],4,SetB
-wrong,nogwr,176,['wrong'],"['wrong', 'grown']",5,SetB
-common,mnocmo,177,['common'],['common'],6,SetB
-name,anme,178,"['name', 'mean', 'mane', 'amen']","['name', 'mean', 'mane', 'amen']",4,SetB
-known,noknw,179,['known'],['known'],5,SetB
-likely,elliky,180,['likely'],['likely'],6,SetB
-city,tiyc,181,['city'],['city'],4,SetB
-along,ganol,182,"['logan', 'along']","['logan', 'golan', 'along']",5,SetB
-center,nrecet,183,"['tenrec', 'center', 'recent']","['tenrec', 'center', 'centre', 'recent']",6,SetB
-days,asyd,184,['days'],['days'],4,SetB
-close,locse,185,"['socle', 'close']","['coles', 'socle', 'close']",5,SetB
-inside,idnies,186,['inside'],"['indies', 'inside']",6,SetB
-real,rlea,187,"['real', 'earl', 'lear']","['real', 'earl', 'rale', 'lear']",4,SetB
-class,lassc,188,['class'],['class'],5,SetB
-return,truner,189,"['return', 'turner']","['return', 'turner']",6,SetB
-done,node,190,"['done', 'node']","['done', 'node']",4,SetB
-happy,hyapp,191,['happy'],['happy'],5,SetB
-couple,opcuel,192,['couple'],['couple'],6,SetB
-care,crae,193,"['care', 'race', 'acre', 'acer']","['care', 'race', 'acre', 'acer']",4,SetB
-human,nmhau,194,"['nahum', 'human']","['nahum', 'human']",5,SetB
-county,untyoc,195,['county'],['county'],6,SetB
-week,keew,196,['week'],['week'],4,SetB
-cause,seuac,197,"['sauce', 'cause']","['sauce', 'cause']",5,SetB
-player,pealry,198,"['player', 'parley', 'replay', 'pearly']","['player', 'parley', 'replay', 'pearly']",6,SetB
-case,seac,199,['case'],"['aces', 'case', 'aecs']",4,SetB
-woman,awmno,200,['woman'],['woman'],5,SetB
-happen,pphaen,201,['happen'],['happen'],6,SetB
-live,viel,202,"['live', 'evil', 'veil']","['live', 'levi', 'veil', 'evil', 'vile']",4,SetB
-north,onrth,203,"['thorn', 'north']","['thorn', 'north']",5,SetB
-middle,ldmeid,204,['middle'],['middle'],6,SetB
-full,lluf,205,['full'],['full'],4,SetB
-watch,whtac,206,['watch'],['watch'],5,SetB
-higher,hgheri,207,['higher'],['higher'],6,SetB
-read,erda,208,"['dare', 'dear', 'read']","['dare', 'dear', 'read']",4,SetB
-leave,levae,209,['leave'],"['aleve', 'leave']",5,SetB
-needed,edened,210,['needed'],['needed'],6,SetB
-hard,ahdr,211,['hard'],['hard'],4,SetB
-taken,kneat,212,['taken'],['taken'],5,SetB
-result,stelur,213,"['rustle', 'ulster', 'sutler', 'luster', 'result']","['lustre', 'rustle', 'ulster', 'sutler', 'luster', 'result']",6,SetB
-mean,amne,214,"['mane', 'mean', 'name', 'amen']","['mane', 'mean', 'name', 'amen']",4,SetB
-light,gilth,215,['light'],['light'],5,SetB
-member,ebmemr,216,['member'],['member'],6,SetB
-four,ufor,217,['four'],['four'],4,SetB
-short,thsro,218,"['short', 'horst']","['thors', 'roths', 'short', 'horst']",5,SetB
-design,esindg,219,"['design', 'signed']","['singed', 'dinges', 'signed', 'deigns', 'design']",6,SetB
-once,cone,220,"['cone', 'once']","['cone', 'once']",4,SetB
-third,itrhd,221,['third'],['third'],5,SetB
-answer,ernsaw,222,['answer'],"['warnes', 'answer']",6,SetB
-tell,eltl,223,['tell'],['tell'],4,SetB
-check,hekcc,224,['check'],['check'],5,SetB
-policy,pclyio,225,['policy'],['policy'],6,SetB
-stop,opst,226,"['post', 'spot', 'stop']","['stop', 'spot', 'pots', 'opts', 'tops', 'ptos', 'post']",4,SetB
-heart,aerth,227,"['hater', 'heart', 'harte', 'earth', 'herat']","['hater', 'heart', 'harte', 'earth', 'herat']",5,SetB
-longer,nrogel,228,['longer'],['longer'],6,SetB
-call,allc,229,['call'],['call'],4,SetB
-major,jorma,230,['major'],['major'],5,SetB
-church,rchuhc,231,['church'],['church'],6,SetB
-head,dhae,232,['head'],['head'],4,SetB
-phone,nphoe,233,['phone'],['phone'],5,SetB
-giving,iinvgg,234,['giving'],['giving'],6,SetB
-side,eisd,235,"['side', 'ides']","['side', 'ides', 'ieds', 'dies']",4,SetB
-child,hdlic,236,['child'],['child'],5,SetB
-ground,nodurg,237,['ground'],['ground'],6,SetB
-less,lses,238,['less'],"['less', 'sles']",4,SetB
-quite,ueqit,239,"['quiet', 'quite']","['quiet', 'quite']",5,SetB
-source,esrocu,240,"['cerous', 'source', 'crouse', 'course']","['cerous', 'source', 'crouse', 'course']",6,SetB
-line,nlie,241,"['nile', 'lien', 'line']","['nile', 'lien', 'line']",4,SetB
-works,kwsro,242,['works'],['works'],5,SetB
-follow,llofwo,243,['follow'],['follow'],6,SetB
-open,onpe,244,['open'],"['pone', 'peon', 'open']",4,SetB
-ready,edayr,245,['ready'],"['deary', 'rayed', 'ready']",5,SetB
-amount,utnamo,246,['amount'],['amount'],6,SetB
-area,aare,247,"['area', 'aare']","['area', 'aare']",4,SetB
-front,roftn,248,['front'],['front'],5,SetB
-league,uegeal,249,['league'],['league'],6,SetB
-kind,ndki,250,"['kind', 'dink']","['kind', 'dink']",4,SetB
-final,nilfa,251,['final'],['final'],5,SetB
-review,rwevei,252,"['viewer', 'review']","['viewer', 'review']",6,SetB
-five,vfei,253,['five'],['five'],4,SetB
-heard,arhed,254,['heard'],"['hared', 'heard']",5,SetB
-august,uautsg,255,['august'],['august'],6,SetB
-face,feac,256,"['cafe', 'face']","['cafe', 'face']",4,SetB
-bring,birng,257,['bring'],['bring'],5,SetB
-entire,neeirt,258,['entire'],['entire'],6,SetB
-hope,heop,259,['hope'],['hope'],4,SetB
-march,cmhar,260,"['march', 'charm']","['march', 'charm']",5,SetB
-turned,dnteru,261,['turned'],['turned'],6,SetB
-news,ewns,262,['news'],"['wens', 'sewn', 'news']",4,SetB
-study,yudst,263,"['study', 'dusty']","['dutys', 'study', 'dusty']",5,SetB
-french,fnrhce,264,['french'],['french'],6,SetB
-able,elba,265,"['bale', 'able', 'blae', 'abel']","['bale', 'able', 'blae', 'abel']",4,SetB
-clear,rleca,266,"['clear', 'lacer']","['clear', 'lacer']",5,SetB
-attack,ctatak,267,['attack'],['attack'],6,SetB
-post,psot,268,"['post', 'spot', 'stop']","['stop', 'spot', 'pots', 'opts', 'tops', 'ptos', 'post']",4,SetB
-words,ordsw,269,"['sword', 'words']","['sword', 'words']",5,SetB
-simple,selmpi,270,['simple'],"['limpes', 'impels', 'simple']",6,SetB
-book,kboo,271,"['book', 'kobo']","['book', 'kobo']",4,SetB
-month,nomht,272,['month'],['month'],5,SetB
-choice,cciheo,273,"['choice', 'echoic']","['choice', 'echoic']",6,SetB
-talk,klat,274,['talk'],['talk'],4,SetB
-field,elfid,275,['field'],"['filed', 'felid', 'field']",5,SetB
-simply,ypimsl,276,['simply'],"['simply', 'implys']",6,SetB
-half,hlaf,277,['half'],['half'],4,SetB
-board,doarb,278,"['dobra', 'board', 'broad']","['dobra', 'board', 'broad']",5,SetB
-modern,nrdemo,279,['modern'],['modern'],6,SetB
-hand,ndah,280,['hand'],['hand'],4,SetB
-space,pcase,281,"['scape', 'space']","['paces', 'scape', 'capes', 'space']",5,SetB
-career,ereacr,282,['career'],['career'],6,SetB
-mind,dmni,283,['mind'],['mind'],4,SetB
-fight,ithgf,284,['fight'],['fight'],5,SetB
-figure,egfuir,285,['figure'],['figure'],6,SetB
-fact,fatc,286,['fact'],['fact'],4,SetB
-issue,ieuss,287,['issue'],['issue'],5,SetB
-forget,gftreo,288,['forget'],['forget'],6,SetB
-true,rute,289,['true'],['true'],4,SetB
-force,cefro,290,['force'],['force'],5,SetB
-listen,nitels,291,"['silent', 'tinsel', 'listen', 'enlist']","['elints', 'tinsel', 'listen', 'inlets', 'silent', 'enlist']",6,SetB
-food,odfo,292,['food'],['food'],4,SetB
-price,epicr,293,['price'],['price'],5,SetB
-access,ccssae,294,['access'],['access'],6,SetB
-body,doyb,295,['body'],['body'],4,SetB
-total,lotta,296,['total'],['total'],5,SetB
-recent,nceter,297,"['center', 'tenrec', 'recent']","['center', 'centre', 'tenrec', 'recent']",6,SetB
-lost,lots,298,"['lost', 'slot']","['lots', 'lost', 'slot']",4,SetB
-above,aoebv,299,['above'],['above'],5,SetB
-seeing,esnige,300,['seeing'],"['seeing', 'eigens', 'genies']",6,SetB
-room,omor,301,"['moro', 'moor', 'room']","['moro', 'moor', 'room']",4,SetC
-share,sareh,302,"['shear', 'share']","['hares', 'shear', 'share', 'heras', 'hears', 'rheas']",5,SetC
-europe,uerope,303,['europe'],['europe'],6,SetC
-girl,ligr,304,['girl'],['girl'],4,SetC
-sense,eness,305,"['essen', 'sense']","['senes', 'essen', 'sense']",5,SetC
-growth,hgtwro,306,['growth'],['growth'],6,SetC
-nice,ncei,307,['nice'],['nice'],4,SetC
-april,irlap,308,"['april', 'pilar']","['april', 'pilar']",5,SetC
-moving,nmvoig,309,['moving'],['moving'],6,SetC
-past,apst,310,"['past', 'spat', 'taps']","['taps', 'spat', 'past', 'pats', 'atps']",4,SetC
-event,nevet,311,['event'],['event'],5,SetC
-charge,erghca,312,['charge'],['charge'],6,SetC
-idea,diea,313,"['idea', 'aide']","['idea', 'aide']",4,SetC
-break,raebk,314,"['brake', 'break', 'baker']","['brake', 'break', 'baker']",5,SetC
-weight,gethwi,315,['weight'],['weight'],6,SetC
-move,vmeo,316,['move'],['move'],4,SetC
-guess,sesgu,317,['guess'],['guess'],5,SetC
-effect,tffece,318,['effect'],['effect'],6,SetC
-wait,wiat,319,['wait'],['wait'],4,SetC
-learn,naler,320,['learn'],"['renal', 'learn']",5,SetC
-create,terace,321,"['cerate', 'ecarte', 'create']","['cerate', 'ecarte', 'create']",6,SetC
-late,tlea,322,"['tael', 'late', 'teal']","['tale', 'late', 'teal', 'tael']",4,SetC
-alone,oenla,323,['alone'],"['anole', 'alone']",5,SetC
-double,douebl,324,['double'],['double'],6,SetC
-data,tdaa,325,['data'],['data'],4,SetC
-worth,owtrh,326,"['throw', 'worth']","['throw', 'wroth', 'worth']",5,SetC
-normal,nomral,327,"['normal', 'molnar']","['normal', 'molnar']",6,SetC
-stay,stya,328,['stay'],"['stay', 'tays']",4,SetC
-press,esprs,329,['press'],['press'],5,SetC
-island,lisdna,330,['island'],"['ladins', 'island']",6,SetC
-soon,noos,331,['soon'],"['soon', 'onos']",4,SetC
-hands,dansh,332,['hands'],['hands'],5,SetC
-expect,ceeptx,333,['expect'],"['except', 'expect']",6,SetC
-turn,rutn,334,"['turn', 'runt']","['turn', 'runt']",4,SetC
-movie,ivemo,335,['movie'],['movie'],5,SetC
-female,faelem,336,['female'],['female'],6,SetC
-deal,leda,337,"['dale', 'deal', 'leda', 'lead']","['dale', 'lade', 'lead', 'deal', 'leda']",4,SetC
-sound,unsdo,338,['sound'],"['sound', 'undos']",5,SetC
-credit,rctdei,339,"['credit', 'direct']","['credit', 'triced', 'direct']",6,SetC
-form,orfm,340,['form'],['form'],4,SetC
-value,ualev,341,"['uveal', 'value']","['uveal', 'value']",5,SetC
-travel,altevr,342,['travel'],"['varlet', 'travel']",6,SetC
-fire,efri,343,['fire'],"['fire', 'rife']",4,SetC
-round,drnuo,344,['round'],['round'],5,SetC
-region,erngoi,345,"['ignore', 'origen', 'region']","['ignore', 'origen', 'eringo', 'region']",6,SetC
-easy,eays,346,"['eyas', 'easy']","['yeas', 'eyas', 'easy']",4,SetC
-stand,ansdt,347,['stand'],['stand'],5,SetC
-minute,nmtiue,348,"['minuet', 'minute']","['minuet', 'minute']",6,SetC
-near,aenr,349,"['earn', 'near']","['earn', 'aner', 'near']",4,SetC
-stuff,futfs,350,['stuff'],"['stuff', 'tuffs']",5,SetC
-beyond,oyenbd,351,['beyond'],['beyond'],6,SetC
-west,estw,352,"['stew', 'west']","['stew', 'west', 'wets']",4,SetC
-green,eregn,353,"['green', 'genre']","['green', 'genre']",5,SetC
-nature,retnau,354,['nature'],['nature'],6,SetC
-plan,lanp,355,['plan'],['plan'],4,SetC
-drive,deirv,356,"['verdi', 'diver', 'drive']","['verdi', 'diver', 'drive', 'rived']",5,SetC
-posted,stdope,357,['posted'],"['spoted', 'despot', 'stoped', 'depots', 'posted']",6,SetC
-list,silt,358,"['silt', 'slit', 'list']","['lits', 'silt', 'slit', 'list']",4,SetC
-model,leomd,359,['model'],['model'],5,SetC
-safety,yaetsf,360,['safety'],['safety'],6,SetC
-type,ptey,361,['type'],['type'],4,SetC
-match,achmt,362,['match'],['match'],5,SetC
-canada,daaacn,363,['canada'],['canada'],6,SetC
-meet,etem,364,"['teem', 'meet']","['teem', 'mete', 'meet']",4,SetC
-trust,truts,365,"['strut', 'trust']","['strut', 'trust']",5,SetC
-income,oemcin,366,['income'],['income'],6,SetC
-song,gosn,367,"['snog', 'song']","['ngos', 'snog', 'nogs', 'song']",4,SetC
-trade,rated,368,"['trade', 'tread']","['rated', 'trade', 'tared', 'tread']",5,SetC
-search,hsaerc,369,"['chaser', 'search', 'eschar']","['chaser', 'search', 'arches', 'eschar', 'reachs', 'chares']",6,SetC
-baby,ybab,370,['baby'],['baby'],4,SetC
-range,genra,371,"['range', 'anger']","['range', 'anger']",5,SetC
-friday,rifdya,372,['friday'],['friday'],6,SetC
-word,wrdo,373,['word'],['word'],4,SetC
-chief,echif,374,['chief'],['chief'],5,SetC
-global,lgblao,375,['global'],['global'],6,SetC
-self,efsl,376,['self'],"['self', 'elfs']",4,SetC
-style,tslye,377,['style'],['style'],5,SetC
-german,ngmrea,378,"['german', 'engram', 'manger']","['german', 'engram', 'manger']",6,SetC
-main,inma,379,['main'],"['main', 'mina']",4,SetC
-lower,olrwe,380,"['rowel', 'lower']","['rowel', 'lower']",5,SetC
-letter,teletr,381,['letter'],['letter'],6,SetC
-held,ldhe,382,['held'],['held'],4,SetC
-stage,gtaes,383,"['gates', 'stage']","['gates', 'stage', 'getas', 'tages']",5,SetC
-leader,rleade,384,"['leader', 'dealer']","['leader', 'dealer']",6,SetC
-road,raod,385,"['orad', 'road']","['orad', 'road']",4,SetC
-china,nciah,386,"['chain', 'china', 'chian']","['chain', 'china', 'chian']",5,SetC
-sister,sestri,387,"['resist', 'sister']","['resist', 'sister', 'stires']",6,SetC
-town,ntwo,388,['town'],"['wont', 'town']",4,SetC
-blood,bldoo,389,['blood'],['blood'],5,SetC
-author,arhuot,390,['author'],['author'],6,SetC
-cost,tsco,391,"['scot', 'cost']","['octs', 'cost', 'scot', 'cots']",4,SetC
-title,elitt,392,['title'],['title'],5,SetC
-annual,ulaann,393,['annual'],['annual'],6,SetC
-fine,nfie,394,['fine'],['fine'],4,SetC
-enjoy,eoynj,395,['enjoy'],['enjoy'],5,SetC
-battle,tebatl,396,"['tablet', 'battle']","['tablet', 'battle']",6,SetC
-rest,tesr,397,['rest'],"['rets', 'erst', 'rest', 'erts']",4,SetC
-super,euspr,398,"['sprue', 'purse', 'super']","['sprue', 'purse', 'perus', 'super']",5,SetC
-degree,greeed,399,['degree'],['degree'],6,SetC
-term,tmre,400,['term'],['term'],4,SetC
-legal,aellg,401,['legal'],['legal'],5,SetC
-france,narecf,402,['france'],['france'],6,SetC
-wife,wefi,403,['wife'],['wife'],4,SetC
-union,nnuio,404,['union'],['union'],5,SetC
-active,ictvae,405,['active'],['active'],6,SetC
-hear,areh,406,"['hera', 'hare', 'rhea', 'hear']","['hera', 'hare', 'rhea', 'hear']",4,SetC
-seven,nvsee,407,['seven'],"['seven', 'evens', 'neves']",5,SetC
-cancer,cearnc,408,['cancer'],['cancer'],6,SetC
-shot,tsoh,409,"['host', 'shot']","['shot', 'host', 'thos', 'tosh']",4,SetC
-cover,vcero,410,['cover'],['cover'],5,SetC
-master,mraest,411,"['master', 'martes', 'stream']","['maters', 'master', 'tamers', 'stream', 'trames', 'martes', 'tremas', 'armets']",6,SetC
-miss,sism,412,['miss'],"['isms', 'miss']",4,SetC
-staff,tfafs,413,['staff'],['staff'],5,SetC
-wonder,nwreod,414,['wonder'],"['downer', 'wonder']",6,SetC
-date,daet,415,['date'],"['date', 'edta']",4,SetC
-crazy,acyzr,416,['crazy'],['crazy'],5,SetC
-russia,assuir,417,['russia'],"['russia', 'ariuss']",6,SetC
-site,ites,418,['site'],"['site', 'iest', 'ties']",4,SetC
-built,tiubl,419,['built'],['built'],5,SetC
-secret,eersct,420,"['resect', 'secret']","['terces', 'erects', 'secret', 'resect', 'cretes']",6,SetC
-land,lnad,421,['land'],['land'],4,SetC
-daily,aidly,422,"['lydia', 'daily']","['lydia', 'daily']",5,SetC
-latest,ttasle,423,['latest'],"['lattes', 'latest']",6,SetC
-eyes,yese,424,['eyes'],['eyes'],4,SetC
-voice,ciove,425,['voice'],['voice'],5,SetC
-senior,sonrei,426,['senior'],"['nosier', 'irones', 'senior']",6,SetC
-june,enju,427,['june'],['june'],4,SetC
-paper,parpe,428,['paper'],['paper'],5,SetC
-effort,eofrft,429,['effort'],['effort'],6,SetC
-lead,dael,430,"['deal', 'dale', 'leda', 'lead']","['dale', 'lade', 'lead', 'deal', 'leda']",4,SetC
-parts,tsrpa,431,"['strap', 'parts', 'sprat']","['sprat', 'strap', 'prats', 'parts', 'traps', 'tarps']",5,SetC
-spring,rpgisn,432,['spring'],['spring'],6,SetC
-club,bclu,433,['club'],['club'],4,SetC
-earth,ethra,434,"['hater', 'heart', 'harte', 'earth', 'herat']","['hater', 'heart', 'harte', 'earth', 'herat']",5,SetC
-impact,pctami,435,['impact'],['impact'],6,SetC
-film,ilfm,436,['film'],['film'],4,SetC
-below,wbelo,437,"['elbow', 'below']","['elbow', 'below', 'bowel']",5,SetC
-africa,aircfa,438,['africa'],['africa'],6,SetC
-dead,ddae,439,"['edda', 'dead']","['edda', 'dead']",4,SetC
-table,letab,440,"['table', 'bleat']","['table', 'bleat', 'blate']",5,SetC
-sunday,uyadsn,441,['sunday'],['sunday'],6,SetC
-test,sett,442,"['stet', 'test']","['tets', 'stet', 'sett', 'test']",4,SetC
-truth,rhutt,443,['truth'],['truth'],5,SetC
-direct,itrced,444,"['credit', 'direct']","['credit', 'triced', 'direct']",6,SetC
-view,ivwe,445,"['view', 'wive']","['view', 'wive']",4,SetC
-offer,fefor,446,['offer'],['offer'],5,SetC
-indian,anindi,447,['indian'],['indian'],6,SetC
-hold,dlho,448,['hold'],['hold'],4,SetC
-sleep,lepes,449,['sleep'],"['peels', 'sleep']",5,SetC
-easily,iaysle,450,['easily'],"['easily', 'aileys']",6,SetC
-star,atrs,451,['star'],"['tars', 'rats', 'arts', 'star', 'tsar']",4,SetD
-visit,ivtis,452,"['visit', 'vitis']","['visit', 'vitis']",5,SetD
-finish,finshi,453,['finish'],['finish'],6,SetD
-hour,hrou,454,['hour'],['hour'],4,SetD
-piece,eecip,455,['piece'],['piece'],5,SetD
-choose,hooces,456,['choose'],"['cohoes', 'choose']",6,SetD
-wish,shwi,457,['wish'],['wish'],4,SetD
-india,anidi,458,['india'],['india'],5,SetD
-closed,codles,459,['closed'],['closed'],6,SetD
-gone,oneg,460,['gone'],['gone'],4,SetD
-build,bdlui,461,['build'],['build'],5,SetD
-damage,agdeam,462,"['dagame', 'damage']","['dagame', 'damage']",6,SetD
-gold,olgd,463,['gold'],['gold'],4,SetD
-river,rervi,464,['river'],['river'],5,SetD
-doctor,ooctdr,465,['doctor'],['doctor'],6,SetD
-king,kgin,466,['king'],['king'],4,SetD
-speak,sakpe,467,['speak'],"['speak', 'peaks']",5,SetD
-notice,citone,468,['notice'],"['noetic', 'notice']",6,SetD
-july,yulj,469,['july'],['july'],4,SetD
-write,etriw,470,['write'],['write'],5,SetD
-highly,hlgihy,471,['highly'],['highly'],6,SetD
-east,eats,472,"['east', 'seta', 'seat']","['seta', 'teas', 'sate', 'seat', 'etas', 'east', 'eats', 'ates']",4,SetD
-eight,hgtei,473,['eight'],['eight'],5,SetD
-winter,inewtr,474,"['winter', 'twiner']","['winter', 'twiner']",6,SetD
-sent,esnt,475,"['nest', 'sent']","['nets', 'nest', 'sent', 'tens']",4,SetD
-funny,nnyuf,476,['funny'],['funny'],5,SetD
-broken,broekn,477,['broken'],['broken'],6,SetD
-bank,nabk,478,['bank'],['bank'],4,SetD
-track,crakt,479,['track'],['track'],5,SetD
-theory,oretyh,480,['theory'],['theory'],6,SetD
-role,orel,481,"['role', 'lore']","['role', 'lore']",4,SetD
-album,bmual,482,['album'],['album'],5,SetD
-advice,vedaci,483,['advice'],['advice'],6,SetD
-park,akpr,484,['park'],['park'],4,SetD
-peace,caepe,485,['peace'],['peace'],5,SetD
-nation,aitnon,486,"['nation', 'anoint']","['nation', 'anoint']",6,SetD
-cool,cloo,487,['cool'],"['cool', 'loco']",4,SetD
-store,steor,488,['store'],"['tores', 'rotes', 'store']",5,SetD
-camera,cemaar,489,['camera'],['camera'],6,SetD
-bill,ilbl,490,['bill'],['bill'],4,SetD
-brown,nwbor,491,['brown'],['brown'],5,SetD
-agency,enycga,492,"['agency', 'cagney']","['agency', 'cagney']",6,SetD
-save,avse,493,"['save', 'vase', 'aves']","['save', 'vase', 'aves']",4,SetD
-moved,dmveo,494,['moved'],['moved'],5,SetD
-status,uasstt,495,['status'],['status'],6,SetD
-rate,aret,496,"['tear', 'tare', 'rate', 'tera']","['tear', 'tare', 'rate', 'tera']",4,SetD
-ahead,daeah,497,['ahead'],"['aahed', 'ahead']",5,SetD
-murder,emrdru,498,['murder'],['murder'],6,SetD
-fast,fsat,499,['fast'],"['atfs', 'fats', 'fast']",4,SetD
-radio,iraod,500,"['radio', 'aroid']","['radio', 'aroid']",5,SetD
-flight,ftlhgi,501,['flight'],['flight'],6,SetD
-blue,uelb,502,"['blue', 'bleu']","['lube', 'blue', 'bleu']",4,SetD
-allow,walol,503,['allow'],['allow'],5,SetD
-coffee,ecfofe,504,['coffee'],['coffee'],6,SetD
-size,szei,505,['size'],['size'],4,SetD
-cross,csrso,506,['cross'],['cross'],5,SetD
-actual,tluaac,507,['actual'],['actual'],6,SetD
-step,epst,508,"['pest', 'step']","['pest', 'pets', 'step', 'sept']",4,SetD
-loved,ldove,509,['loved'],['loved'],5,SetD
-mobile,lmebio,510,['mobile'],"['mobile', 'emboli']",6,SetD
-fall,lalf,511,['fall'],['fall'],4,SetD
-speed,seedp,512,['speed'],"['deeps', 'speed', 'pedes']",5,SetD
-opened,oneedp,513,['opened'],"['depone', 'opened']",6,SetD
-felt,ltfe,514,"['left', 'felt']","['left', 'felt']",4,SetD
-focus,oscfu,515,['focus'],['focus'],5,SetD
-placed,aeplcd,516,['placed'],"['placed', 'claped']",6,SetD
-paid,pida,517,['paid'],['paid'],4,SetD
-extra,axtre,518,"['taxer', 'extra']","['taxer', 'extra']",5,SetD
-signed,ngsedi,519,"['design', 'signed']","['singed', 'dinges', 'signed', 'deigns', 'design']",6,SetD
-page,aegp,520,"['gape', 'page']","['gape', 'page', 'peag']",4,SetD
-quick,iquck,521,['quick'],['quick'],5,SetD
-eating,geinta,522,['eating'],['eating'],6,SetD
-vote,tveo,523,"['vote', 'veto']","['vote', 'veto']",4,SetD
-clean,claen,524,"['lance', 'clean']","['lance', 'clean']",5,SetD
-screen,rsneec,525,"['censer', 'screen']","['secern', 'screen', 'censer']",6,SetD
-hate,etah,526,"['thea', 'heat', 'hate']","['thea', 'heat', 'hate']",4,SetD
-scene,cesne,527,"['scene', 'cense']","['scene', 'cense']",5,SetD
-speech,pceshe,528,['speech'],"['speech', 'cheeps']",6,SetD
-send,edsn,529,['send'],"['send', 'ends', 'dens']",4,SetD
-agree,aeerg,530,"['eager', 'gerea', 'agree']","['eager', 'gerea', 'ragee', 'agree', 'eagre']",5,SetD
-appear,raeppa,531,['appear'],['appear'],6,SetD
-hell,lelh,532,['hell'],['hell'],4,SetD
-spend,dpnse,533,['spend'],['spend'],5,SetD
-accept,tacpec,534,['accept'],['accept'],6,SetD
-lord,rdlo,535,['lord'],['lord'],4,SetD
-heavy,vayeh,536,['heavy'],"['heavy', 'yahve']",5,SetD
-bottom,tobmot,537,['bottom'],['bottom'],6,SetD
-damn,dnma,538,['damn'],['damn'],4,SetD
-coach,hcaco,539,['coach'],"['accho', 'coach']",5,SetD
-square,sqruae,540,['square'],['square'],6,SetD
-poor,ropo,541,['poor'],['poor'],4,SetD
-train,arnit,542,['train'],"['train', 'riant']",5,SetD
-raised,deisar,543,['raised'],"['saider', 'raised', 'draies', 'raides', 'arised']",6,SetD
-born,nrob,544,"['brno', 'born']","['brno', 'born']",4,SetD
-costs,scsto,545,"['costs', 'scots']","['costs', 'scots']",5,SetD
-agreed,eragde,546,"['agreed', 'geared', 'dragee']","['agreed', 'dragee', 'ageder', 'geared', 'rageed']",6,SetD
-walk,lkaw,547,['walk'],['walk'],4,SetD
-claim,ilcma,548,['claim'],['claim'],5,SetD
-demand,adednm,549,"['damned', 'demand', 'madden']","['damned', 'demand', 'madden']",6,SetD
-pick,kcip,550,['pick'],['pick'],4,SetD
-hotel,htole,551,['hotel'],"['helot', 'hotel', 'thole']",5,SetD
-engine,nngiee,552,['engine'],['engine'],6,SetD
-hair,irah,553,['hair'],['hair'],4,SetD
-judge,dujge,554,['judge'],"['juged', 'judge']",5,SetD
-mental,taelnm,555,"['lament', 'mantle', 'mental', 'mantel']","['lament', 'mantle', 'mental', 'mantel']",6,SetD
-door,ordo,556,['door'],"['odor', 'rood', 'door']",4,SetD
-reach,earch,557,['reach'],['reach'],5,SetD
-fourth,utofrh,558,['fourth'],['fourth'],6,SetD
-code,deoc,559,"['code', 'deco']","['code', 'deco']",4,SetD
-floor,lforo,560,['floor'],['floor'],5,SetD
-forced,crfdeo,561,['forced'],['forced'],6,SetD
-sign,gnsi,562,"['sign', 'sing']","['sign', 'sing', 'gins']",4,SetD
-image,geami,563,['image'],['image'],5,SetD
-remain,rnaemi,564,"['mainer', 'remain', 'marine']","['mainer', 'remain', 'marine', 'airmen']",6,SetD
-race,reca,565,"['care', 'race', 'acre', 'acer']","['care', 'race', 'acre', 'acer']",4,SetD
-brain,nabri,566,"['brain', 'bairn']","['brain', 'bairn']",5,SetD
-acting,tacign,567,['acting'],"['acting', 'cating']",6,SetD
-lose,sole,568,"['sole', 'sloe', 'lose']","['sole', 'leos', 'sloe', 'lose']",4,SetD
-worst,wsrto,569,['worst'],"['worts', 'worst']",5,SetD
-sexual,lexsua,570,['sexual'],['sexual'],6,SetD
-seem,emse,571,['seem'],['seem'],4,SetD
-civil,vliic,572,['civil'],['civil'],5,SetD
-target,rgtate,573,['target'],['target'],6,SetD
-safe,sefa,574,['safe'],"['faes', 'safe']",4,SetD
-stock,cksto,575,['stock'],['stock'],5,SetD
-estate,eetast,576,['estate'],"['estate', 'testae']",6,SetD
-loss,slso,577,['loss'],"['sols', 'loss']",4,SetD
-dance,cdnea,578,"['dance', 'acned']","['caned', 'dance', 'acned']",5,SetD
-budget,beutdg,579,['budget'],['budget'],6,SetD
-huge,gueh,580,['huge'],['huge'],4,SetD
-beach,hecab,581,['beach'],['beach'],5,SetD
-silver,iveslr,582,"['sliver', 'silver']","['sliver', 'livers', 'silver']",6,SetD
-okay,okya,583,['okay'],"['okay', 'kayo']",4,SetD
-color,oorcl,584,['color'],['color'],5,SetD
-animal,iamlan,585,"['malian', 'lamina', 'animal', 'manila']","['malian', 'lamina', 'animal', 'manila']",6,SetD
-goal,ogal,586,['goal'],"['goal', 'gaol']",4,SetD
-grand,drang,587,['grand'],['grand'],5,SetD
-spread,sapdre,588,['spread'],"['spared', 'parsed', 'spread', 'rasped', 'padres', 'drapes']",6,SetD
-ways,sawy,589,"['yaws', 'ways', 'sway']","['yaws', 'ways', 'sway']",4,SetD
-sweet,wetes,590,['sweet'],"['wetes', 'weest', 'sweet']",5,SetD
-memory,remmyo,591,['memory'],['memory'],6,SetD
-army,arym,592,"['army', 'mary']","['army', 'mary']",4,SetD
-touch,ohtuc,593,"['touch', 'couth']","['touch', 'couth']",5,SetD
-supply,pplyus,594,['supply'],['supply'],6,SetD
-deep,depe,595,['deep'],"['peed', 'deep']",4,SetD
-dream,rmdea,596,"['armed', 'dream']","['dream', 'derma', 'mared', 'mader', 'ramed', 'armed']",5,SetD
-prison,oirpns,597,['prison'],"['prison', 'orpins', 'prions']",6,SetD
-base,seab,598,['base'],['base'],4,SetD
-drink,irndk,599,['drink'],['drink'],5,SetD
-window,ndoiww,600,['window'],['window'],6,SetD
+root,shuffled,id,valid_words,length,Set
+have,avhe,001,['have'],4,SetA
+about,uobat,002,['about'],5,SetA
+people,eeplop,003,['people'],6,SetA
+will,lwli,004,['will'],4,SetA
+there,ehetr,005,"['ether', 'three', 'there', 'heter']",5,SetA
+around,raoudn,006,"['around', 'arundo']",6,SetA
+just,sutj,007,"['juts', 'just']",4,SetA
+other,ethro,008,"['other', 'hoter', 'throe']",5,SetA
+better,ttrebe,009,['better'],6,SetA
+like,ikle,010,['like'],4,SetA
+first,iftsr,011,"['first', 'rifts']",5,SetA
+always,syawal,012,['always'],6,SetA
+more,orme,013,"['rome', 'more']",4,SetA
+after,raetf,014,"['fater', 'after']",5,SetA
+little,teltli,015,['little'],6,SetA
+time,imet,016,"['time', 'emit', 'item', 'mite']",4,SetA
+think,thnik,017,['think'],5,SetA
+things,hsintg,018,"['things', 'nights']",6,SetA
+some,oems,019,['some'],4,SetA
+right,igthr,020,"['girth', 'right']",5,SetA
+school,hslcoo,021,['school'],6,SetA
+good,ogod,022,['good'],4,SetA
+being,bnieg,023,"['binge', 'being', 'begin']",5,SetA
+please,elaeps,024,"['please', 'asleep', 'elapse', 'palees', 'leapes', 'peales']",6,SetA
+only,lony,025,"['only', 'lyon']",4,SetA
+going,gogin,026,['going'],5,SetA
+family,ymfila,027,['family'],6,SetA
+know,owkn,028,"['know', 'wonk']",4,SetA
+still,llsti,029,"['lilts', 'still', 'tills']",5,SetA
+second,sonedc,030,['second'],6,SetA
+over,erov,031,"['over', 'rove']",4,SetA
+never,enerv,032,"['never', 'nerve', 'verne']",5,SetA
+number,unbemr,033,['number'],6,SetA
+make,aemk,034,['make'],4,SetA
+world,rowdl,035,['world'],5,SetA
+public,puilcb,036,['public'],6,SetA
+then,nhte,037,['then'],4,SetA
+great,ategr,038,"['grate', 'great']",5,SetA
+system,ssymte,039,['system'],6,SetA
+back,kabc,040,['back'],4,SetA
+while,lwhei,041,['while'],5,SetA
+person,oeprsn,042,"['perons', 'person']",6,SetA
+want,awtn,043,['want'],4,SetA
+every,reyev,044,"['every', 'veery']",5,SetA
+enough,henguo,045,['enough'],6,SetA
+well,wlel,046,['well'],4,SetA
+three,ehtre,047,"['ether', 'three', 'there', 'heter']",5,SetA
+change,hcngae,048,['change'],6,SetA
+much,hmuc,049,"['much', 'chum']",4,SetA
+state,etast,050,"['taste', 'state', 'teats', 'tates', 'testa']",5,SetA
+making,nakgmi,051,['making'],6,SetA
+most,tsom,052,"['most', 'toms', 'mots']",4,SetA
+under,eudrn,053,"['under', 'nuder', 'runed', 'duner']",5,SetA
+though,ghuhto,054,['though'],6,SetA
+very,yerv,055,['very'],4,SetA
+thing,tnhgi,056,"['night', 'thing']",5,SetA
+season,soanes,057,"['saones', 'season']",6,SetA
+even,vene,058,"['even', 'neve']",4,SetA
+house,soehu,059,['house'],5,SetA
+trying,grynit,060,['trying'],6,SetA
+here,eehr,061,['here'],4,SetA
+place,palce,062,"['place', 'calpe']",5,SetA
+united,tudnei,063,"['untied', 'united']",6,SetA
+need,dene,064,"['need', 'eden']",4,SetA
+again,igaan,065,['again'],5,SetA
+course,rsuceo,066,"['cerous', 'source', 'crouse', 'course']",6,SetA
+work,rokw,067,['work'],4,SetA
+found,ufdno,068,"['found', 'fondu']",5,SetA
+health,tehalh,069,['health'],6,SetA
+year,yrae,070,"['year', 'eyra', 'aery']",4,SetA
+might,ihmgt,071,['might'],5,SetA
+thanks,shtnak,072,['thanks'],6,SetA
+made,emad,073,"['mead', 'edam', 'emda', 'made', 'dame']",4,SetA
+money,ymone,074,['money'],5,SetA
+social,lcsoia,075,['social'],6,SetA
+take,tkea,076,"['take', 'teak']",4,SetA
+night,hintg,077,"['night', 'thing']",5,SetA
+single,sinlge,078,"['single', 'lignes']",6,SetA
+many,nmya,079,"['many', 'myna']",4,SetA
+group,ourgp,080,['group'],5,SetA
+office,eiofcf,081,"['office', 'coiffe']",6,SetA
+life,eilf,082,"['lief', 'file', 'life']",4,SetA
+start,arstt,083,"['tarts', 'start']",5,SetA
+become,ebecmo,084,['become'],6,SetA
+down,wodn,085,['down'],4,SetA
+times,temsi,086,"['metis', 'items', 'mites', 'smite', 'times', 'emits']",5,SetA
+pretty,ryeptt,087,['pretty'],6,SetA
+last,tasl,088,"['lats', 'slat', 'last', 'salt', 'alts']",4,SetA
+today,dyota,089,"['today', 'toady']",5,SetA
+matter,rttmea,090,['matter'],6,SetA
+best,sbte,091,"['bets', 'best']",4,SetA
+point,ipton,092,"['pinot', 'point', 'pinto', 'piton']",5,SetA
+saying,iangys,093,['saying'],6,SetA
+such,chus,094,['such'],4,SetA
+music,mcius,095,"['music', 'musci']",5,SetA
+friend,iendfr,096,"['finder', 'friend']",6,SetA
+love,lveo,097,"['vole', 'love']",4,SetA
+power,eworp,098,['power'],5,SetA
+wanted,awentd,099,['wanted'],6,SetA
+long,goln,100,['long'],4,SetA
+water,rawte,101,['water'],5,SetA
+series,rieess,102,"['series', 'sirees', 'iseres', 'risees', 'erises']",6,SetA
+home,hoem,103,['home'],4,SetA
+white,hitwe,104,"['withe', 'white']",5,SetA
+future,turefu,105,['future'],6,SetA
+look,olko,106,['look'],4,SetA
+small,lsaml,107,"['small', 'malls']",5,SetA
+either,hertie,108,['either'],6,SetA
+same,maes,109,"['seam', 'same', 'mesa']",4,SetA
+based,dasbe,110,"['based', 'dabes', 'beads', 'bedas', 'bades']",5,SetA
+police,olicep,111,['police'],6,SetA
+used,uesd,112,"['used', 'dues', 'sued', 'duse']",4,SetA
+later,alter,113,"['alert', 'later', 'ratel', 'artel', 'alter']",5,SetA
+rather,ehrart,114,['rather'],6,SetA
+both,ohtb,115,['both'],4,SetA
+order,drero,116,['order'],5,SetA
+reason,ornsae,117,"['reason', 'senora']",6,SetA
+part,aptr,118,"['part', 'tarp', 'trap', 'rapt', 'prat']",4,SetA
+party,rtayp,119,['party'],5,SetA
+report,prrote,120,"['porter', 'report', 'pretor']",6,SetA
+come,eomc,121,['come'],4,SetA
+thank,nhakt,122,['thank'],5,SetA
+living,ilving,123,['living'],6,SetA
+find,difn,124,['find'],4,SetA
+black,alcbk,125,['black'],5,SetA
+behind,eidnhb,126,['behind'],6,SetA
+high,hhig,127,['high'],4,SetA
+whole,ehwlo,128,['whole'],5,SetA
+market,erkmat,129,['market'],6,SetA
+help,pehl,130,['help'],4,SetA
+story,yrsot,131,"['tyros', 'torys', 'troys', 'story']",5,SetA
+former,merofr,132,"['former', 'reform']",6,SetA
+game,mgea,133,['game'],4,SetA
+least,slate,134,"['least', 'lates', 'teals', 'stael', 'stela', 'tales', 'tesla', 'stale', 'steal', 'slate', 'taels']",5,SetA
+street,rettse,135,"['tester', 'street', 'setter']",6,SetA
+give,egiv,136,['give'],4,SetA
+means,mnsea,137,"['mensa', 'names', 'means', 'samen', 'amens', 'manse', 'manes']",5,SetA
+london,ndonlo,138,['london'],6,SetA
+next,xnet,139,['next'],4,SetA
+early,lyrea,140,"['relay', 'layer', 'early', 'leary']",5,SetA
+chance,hcanec,141,['chance'],6,SetA
+each,caeh,142,"['each', 'ache']",4,SetA
+local,ocall,143,['local'],5,SetA
+father,ehfatr,144,['father'],6,SetA
+must,mstu,145,"['must', 'tums', 'smut']",4,SetA
+young,yngou,146,['young'],5,SetA
+across,asosrc,147,"['oscars', 'across']",6,SetA
+show,wohs,148,"['whos', 'show']",4,SetA
+video,ivode,149,['video'],5,SetA
+action,toainc,150,"['cation', 'action', 'atonic']",6,SetA
+sure,suer,151,"['suer', 'rues', 'sure', 'user', 'ruse']",4,SetB
+given,gnevi,152,['given'],5,SetB
+mother,trhmoe,153,['mother'],6,SetB
+feel,leef,154,"['flee', 'feel']",4,SetB
+level,lelve,155,['level'],5,SetB
+moment,netmmo,156,['moment'],6,SetB
+team,maet,157,"['team', 'meat', 'tame', 'mate']",4,SetB
+often,nfoet,158,['often'],5,SetB
+played,ldpaey,159,['played'],6,SetB
+ever,eevr,160,"['ever', 'veer']",4,SetB
+court,rouct,161,['court'],5,SetB
+energy,eyegrn,162,['energy'],6,SetB
+keep,epke,163,"['peek', 'keep', 'peke']",4,SetB
+south,ousht,164,"['shout', 'thous', 'south']",5,SetB
+summer,rmseum,165,['summer'],6,SetB
+free,eefr,166,"['free', 'reef']",4,SetB
+death,htead,167,"['hated', 'death']",5,SetB
+strong,sgotrn,168,['strong'],6,SetB
+away,ayaw,169,['away'],4,SetB
+hours,ohrus,170,"['horus', 'hours']",5,SetB
+record,cdreor,171,['record'],6,SetB
+left,eftl,172,"['left', 'felt']",4,SetB
+large,agrel,173,"['glare', 'large', 'alger', 'elgar', 'regal', 'lager']",5,SetB
+period,oiperd,174,"['dopier', 'period']",6,SetB
+play,yapl,175,['play'],4,SetB
+wrong,onwrg,176,"['wrong', 'grown']",5,SetB
+common,mcmoon,177,['common'],6,SetB
+name,maen,178,"['mane', 'mean', 'name', 'amen']",4,SetB
+known,nkown,179,['known'],5,SetB
+likely,lkeyil,180,['likely'],6,SetB
+city,ycti,181,['city'],4,SetB
+along,olnga,182,"['logan', 'golan', 'along']",5,SetB
+center,rntece,183,"['tenrec', 'centre', 'recent', 'center']",6,SetB
+days,ydas,184,['days'],4,SetB
+close,lecso,185,"['coles', 'socle', 'close']",5,SetB
+inside,ndeisi,186,"['indies', 'inside']",6,SetB
+real,ealr,187,"['lear', 'earl', 'real', 'rale']",4,SetB
+class,scasl,188,['class'],5,SetB
+return,nrrtue,189,"['return', 'turner']",6,SetB
+done,eond,190,"['done', 'node']",4,SetB
+happy,ayphp,191,['happy'],5,SetB
+couple,cploeu,192,['couple'],6,SetB
+care,arec,193,"['care', 'race', 'acre', 'acer']",4,SetB
+human,manhu,194,"['nahum', 'human']",5,SetB
+county,yoctun,195,['county'],6,SetB
+week,eewk,196,['week'],4,SetB
+cause,uceas,197,"['sauce', 'cause']",5,SetB
+player,rleypa,198,"['pearly', 'replay', 'parley', 'player']",6,SetB
+case,easc,199,"['aces', 'case', 'aecs']",4,SetB
+woman,onwma,200,['woman'],5,SetB
+happen,heanpp,201,['happen'],6,SetB
+live,evli,202,"['live', 'levi', 'veil', 'evil', 'vile']",4,SetB
+north,norht,203,"['thorn', 'north']",5,SetB
+middle,lidmde,204,['middle'],6,SetB
+full,fllu,205,['full'],4,SetB
+watch,awhtc,206,['watch'],5,SetB
+higher,ghheir,207,['higher'],6,SetB
+read,raed,208,"['dare', 'dear', 'read']",4,SetB
+leave,levae,209,"['aleve', 'leave']",5,SetB
+needed,eeeddn,210,['needed'],6,SetB
+hard,hdra,211,['hard'],4,SetB
+taken,atken,212,['taken'],5,SetB
+result,utslre,213,"['lustre', 'rustle', 'ulster', 'sutler', 'luster', 'result']",6,SetB
+mean,emna,214,"['mane', 'mean', 'amen', 'name']",4,SetB
+light,htlgi,215,['light'],5,SetB
+member,ememrb,216,['member'],6,SetB
+four,rouf,217,['four'],4,SetB
+short,roths,218,"['thors', 'roths', 'short', 'horst']",5,SetB
+design,endigs,219,"['dinges', 'singed', 'signed', 'deigns', 'design']",6,SetB
+once,onec,220,"['cone', 'once']",4,SetB
+third,rihdt,221,['third'],5,SetB
+answer,rswena,222,"['warnes', 'answer']",6,SetB
+tell,ltel,223,['tell'],4,SetB
+check,kechc,224,['check'],5,SetB
+policy,ipolcy,225,['policy'],6,SetB
+stop,post,226,"['stop', 'spot', 'pots', 'opts', 'tops', 'ptos', 'post']",4,SetB
+heart,ahtre,227,"['hater', 'heart', 'harte', 'earth', 'herat']",5,SetB
+longer,lgroen,228,['longer'],6,SetB
+call,clal,229,['call'],4,SetB
+major,mjora,230,['major'],5,SetB
+church,cchruh,231,['church'],6,SetB
+head,ehad,232,['head'],4,SetB
+phone,epohn,233,['phone'],5,SetB
+giving,vingig,234,['giving'],6,SetB
+side,desi,235,"['side', 'dies', 'ieds', 'ides']",4,SetB
+child,clhid,236,['child'],5,SetB
+ground,dorgun,237,['ground'],6,SetB
+less,lses,238,"['less', 'sles']",4,SetB
+quite,queit,239,"['quiet', 'quite']",5,SetB
+source,cseruo,240,"['cerous', 'source', 'crouse', 'course']",6,SetB
+line,neli,241,"['nile', 'lien', 'line']",4,SetB
+works,orswk,242,['works'],5,SetB
+follow,wllofo,243,['follow'],6,SetB
+open,pnoe,244,"['pone', 'peon', 'open']",4,SetB
+ready,reday,245,"['deary', 'rayed', 'ready']",5,SetB
+amount,atoumn,246,['amount'],6,SetB
+area,eraa,247,"['area', 'aare']",4,SetB
+front,onrft,248,['front'],5,SetB
+league,eluega,249,['league'],6,SetB
+kind,idkn,250,"['kind', 'dink']",4,SetB
+final,ilafn,251,['final'],5,SetB
+review,eiwerv,252,"['viewer', 'review']",6,SetB
+five,veif,253,['five'],4,SetB
+heard,rdeha,254,"['hared', 'heard']",5,SetB
+august,uagsut,255,['august'],6,SetB
+face,aefc,256,"['cafe', 'face']",4,SetB
+bring,gnirb,257,['bring'],5,SetB
+entire,erinte,258,['entire'],6,SetB
+hope,eoph,259,['hope'],4,SetB
+march,chram,260,"['march', 'charm']",5,SetB
+turned,nrduet,261,['turned'],6,SetB
+news,swne,262,"['wens', 'sewn', 'news']",4,SetB
+study,tudsy,263,"['dutys', 'study', 'dusty']",5,SetB
+french,nefhrc,264,['french'],6,SetB
+able,ealb,265,"['bale', 'able', 'blae', 'abel']",4,SetB
+clear,rcael,266,"['clear', 'lacer']",5,SetB
+attack,atkcta,267,['attack'],6,SetB
+post,psot,268,"['stop', 'spot', 'pots', 'opts', 'tops', 'ptos', 'post']",4,SetB
+words,odswr,269,"['sword', 'words']",5,SetB
+simple,spliem,270,"['limpes', 'impels', 'simple']",6,SetB
+book,oobk,271,"['book', 'kobo']",4,SetB
+month,mntoh,272,['month'],5,SetB
+choice,ociceh,273,"['choice', 'echoic']",6,SetB
+talk,kalt,274,['talk'],4,SetB
+field,edlif,275,"['filed', 'felid', 'field']",5,SetB
+simply,lpmiys,276,"['simply', 'implys']",6,SetB
+half,lafh,277,['half'],4,SetB
+board,roadb,278,"['dobra', 'board', 'broad']",5,SetB
+modern,rmonde,279,['modern'],6,SetB
+hand,ndah,280,['hand'],4,SetB
+space,epcsa,281,"['paces', 'scape', 'capes', 'space']",5,SetB
+career,recera,282,['career'],6,SetB
+mind,mndi,283,['mind'],4,SetB
+fight,tigfh,284,['fight'],5,SetB
+figure,rigfeu,285,['figure'],6,SetB
+fact,tcfa,286,['fact'],4,SetB
+issue,isseu,287,['issue'],5,SetB
+forget,ftegor,288,['forget'],6,SetB
+true,etru,289,['true'],4,SetB
+force,erfco,290,['force'],5,SetB
+listen,snilet,291,"['elints', 'listen', 'tinsel', 'inlets', 'silent', 'enlist']",6,SetB
+food,odfo,292,['food'],4,SetB
+price,eirpc,293,['price'],5,SetB
+access,acescs,294,['access'],6,SetB
+body,boyd,295,['body'],4,SetB
+total,ottla,296,['total'],5,SetB
+recent,ercent,297,"['tenrec', 'center', 'centre', 'recent']",6,SetB
+lost,solt,298,"['lots', 'lost', 'slot']",4,SetB
+above,boeva,299,['above'],5,SetB
+seeing,sieeng,300,"['seeing', 'eigens', 'genies']",6,SetB
+room,oomr,301,"['moro', 'moor', 'room']",4,SetC
+share,ahrse,302,"['hares', 'shear', 'share', 'heras', 'hears', 'rheas']",5,SetC
+europe,oeerup,303,['europe'],6,SetC
+girl,ilgr,304,['girl'],4,SetC
+sense,snees,305,"['essen', 'senes', 'sense']",5,SetC
+growth,htwogr,306,['growth'],6,SetC
+nice,cien,307,['nice'],4,SetC
+april,ialrp,308,"['april', 'pilar']",5,SetC
+moving,vogmin,309,['moving'],6,SetC
+past,tpas,310,"['taps', 'spat', 'past', 'pats', 'atps']",4,SetC
+event,tvene,311,['event'],5,SetC
+charge,rcheag,312,['charge'],6,SetC
+idea,daie,313,"['idea', 'aide']",4,SetC
+break,kerab,314,"['brake', 'break', 'baker']",5,SetC
+weight,wighte,315,['weight'],6,SetC
+move,emvo,316,['move'],4,SetC
+guess,suesg,317,['guess'],5,SetC
+effect,ceftfe,318,['effect'],6,SetC
+wait,wita,319,['wait'],4,SetC
+learn,nrlea,320,"['renal', 'learn']",5,SetC
+create,atrece,321,"['cerate', 'ecarte', 'create']",6,SetC
+late,elta,322,"['tale', 'tael', 'teal', 'late']",4,SetC
+alone,olnea,323,"['anole', 'alone']",5,SetC
+double,ldbeou,324,['double'],6,SetC
+data,tdaa,325,['data'],4,SetC
+worth,whrot,326,"['throw', 'wroth', 'worth']",5,SetC
+normal,mlrano,327,"['molnar', 'normal']",6,SetC
+stay,ysta,328,"['stay', 'tays']",4,SetC
+press,perss,329,['press'],5,SetC
+island,alndis,330,"['ladins', 'island']",6,SetC
+soon,nsoo,331,"['onos', 'soon']",4,SetC
+hands,dansh,332,['hands'],5,SetC
+expect,pcxete,333,"['except', 'expect']",6,SetC
+turn,rnut,334,"['turn', 'runt']",4,SetC
+movie,mveoi,335,['movie'],5,SetC
+female,eflmae,336,['female'],6,SetC
+deal,dale,337,"['dale', 'lade', 'lead', 'deal', 'leda']",4,SetC
+sound,dnuso,338,"['sound', 'undos']",5,SetC
+credit,rdcite,339,"['credit', 'triced', 'direct']",6,SetC
+form,orfm,340,['form'],4,SetC
+value,velau,341,"['uveal', 'value']",5,SetC
+travel,ealtrv,342,"['varlet', 'travel']",6,SetC
+fire,eirf,343,"['fire', 'rife']",4,SetC
+round,dronu,344,['round'],5,SetC
+region,egiorn,345,"['ignore', 'origen', 'eringo', 'region']",6,SetC
+easy,yeas,346,"['easy', 'eyas', 'yeas']",4,SetC
+stand,tnsda,347,['stand'],5,SetC
+minute,mniuet,348,"['minuet', 'minute']",6,SetC
+near,erna,349,"['earn', 'near', 'aner']",4,SetC
+stuff,fsuft,350,"['stuff', 'tuffs']",5,SetC
+beyond,nboeyd,351,['beyond'],6,SetC
+west,twes,352,"['stew', 'west', 'wets']",4,SetC
+green,egenr,353,"['green', 'genre']",5,SetC
+nature,aeuntr,354,['nature'],6,SetC
+plan,npla,355,['plan'],4,SetC
+drive,idrev,356,"['verdi', 'diver', 'drive', 'rived']",5,SetC
+posted,dtosep,357,"['spoted', 'despot', 'stoped', 'depots', 'posted']",6,SetC
+list,tsli,358,"['lits', 'silt', 'slit', 'list']",4,SetC
+model,dolme,359,['model'],5,SetC
+safety,aesfty,360,['safety'],6,SetC
+type,yetp,361,['type'],4,SetC
+match,athmc,362,['match'],5,SetC
+canada,daanac,363,['canada'],6,SetC
+meet,teem,364,"['mete', 'teem', 'meet']",4,SetC
+trust,suttr,365,"['strut', 'trust']",5,SetC
+income,icnoem,366,['income'],6,SetC
+song,nogs,367,"['ngos', 'snog', 'nogs', 'song']",4,SetC
+trade,trdea,368,"['rated', 'trade', 'tared', 'tread']",5,SetC
+search,rehcsa,369,"['chaser', 'search', 'eschar', 'arches', 'reachs', 'chares']",6,SetC
+baby,aybb,370,['baby'],4,SetC
+range,agren,371,"['range', 'anger']",5,SetC
+friday,daifry,372,['friday'],6,SetC
+word,dwor,373,['word'],4,SetC
+chief,iefch,374,['chief'],5,SetC
+global,oglalb,375,['global'],6,SetC
+self,lsef,376,"['self', 'elfs']",4,SetC
+style,yelts,377,['style'],5,SetC
+german,rgmaen,378,"['german', 'engram', 'manger']",6,SetC
+main,iamn,379,"['main', 'mina']",4,SetC
+lower,lrwoe,380,"['rowel', 'lower']",5,SetC
+letter,teltre,381,['letter'],6,SetC
+held,hedl,382,['held'],4,SetC
+stage,atsge,383,"['gates', 'stage', 'getas', 'tages']",5,SetC
+leader,delrea,384,"['leader', 'dealer']",6,SetC
+road,odra,385,"['orad', 'road']",4,SetC
+china,ncaih,386,"['chain', 'china', 'chian']",5,SetC
+sister,srties,387,"['resist', 'sister', 'stires']",6,SetC
+town,twon,388,"['wont', 'town']",4,SetC
+blood,dobol,389,['blood'],5,SetC
+author,rhouat,390,['author'],6,SetC
+cost,tcso,391,"['octs', 'cots', 'scot', 'cost']",4,SetC
+title,telit,392,['title'],5,SetC
+annual,nuanal,393,['annual'],6,SetC
+fine,ifen,394,['fine'],4,SetC
+enjoy,njoye,395,['enjoy'],5,SetC
+battle,ttealb,396,"['tablet', 'battle']",6,SetC
+rest,tsre,397,"['rets', 'rest', 'erst', 'erts']",4,SetC
+super,ersup,398,"['sprue', 'purse', 'perus', 'super']",5,SetC
+degree,gerdee,399,['degree'],6,SetC
+term,emtr,400,['term'],4,SetC
+legal,algel,401,['legal'],5,SetC
+france,ncaerf,402,['france'],6,SetC
+wife,efwi,403,['wife'],4,SetC
+union,uionn,404,['union'],5,SetC
+active,icaevt,405,['active'],6,SetC
+hear,erha,406,"['hare', 'hera', 'rhea', 'hear']",4,SetC
+seven,sevne,407,"['seven', 'evens', 'neves']",5,SetC
+cancer,rcaenc,408,['cancer'],6,SetC
+shot,otsh,409,"['shot', 'host', 'thos', 'tosh']",4,SetC
+cover,cevro,410,['cover'],5,SetC
+master,tsrmae,411,"['maters', 'master', 'stream', 'trames', 'martes', 'tremas', 'tamers', 'armets']",6,SetC
+miss,imss,412,"['isms', 'miss']",4,SetC
+staff,tfasf,413,['staff'],5,SetC
+wonder,donrwe,414,"['downer', 'wonder']",6,SetC
+date,ated,415,"['date', 'edta']",4,SetC
+crazy,yrzac,416,['crazy'],5,SetC
+russia,uisasr,417,"['russia', 'ariuss']",6,SetC
+site,tsei,418,"['site', 'iest', 'ties']",4,SetC
+built,tbilu,419,['built'],5,SetC
+secret,ctsree,420,"['terces', 'erects', 'secret', 'resect', 'cretes']",6,SetC
+land,daln,421,['land'],4,SetC
+daily,lydia,422,"['lydia', 'daily']",5,SetC
+latest,slttea,423,"['lattes', 'latest']",6,SetC
+eyes,syee,424,['eyes'],4,SetC
+voice,coeiv,425,['voice'],5,SetC
+senior,isoner,426,"['nosier', 'irones', 'senior']",6,SetC
+june,ujen,427,['june'],4,SetC
+paper,prpae,428,['paper'],5,SetC
+effort,ffeotr,429,['effort'],6,SetC
+lead,alde,430,"['dale', 'lade', 'lead', 'deal', 'leda']",4,SetC
+parts,rstap,431,"['sprat', 'strap', 'prats', 'parts', 'traps', 'tarps']",5,SetC
+spring,gnsipr,432,['spring'],6,SetC
+club,cblu,433,['club'],4,SetC
+earth,thare,434,"['hater', 'heart', 'harte', 'earth', 'herat']",5,SetC
+impact,aipcmt,435,['impact'],6,SetC
+film,mfil,436,['film'],4,SetC
+below,wbelo,437,"['elbow', 'below', 'bowel']",5,SetC
+africa,ciraaf,438,['africa'],6,SetC
+dead,dade,439,"['edda', 'dead']",4,SetC
+table,eblta,440,"['table', 'bleat', 'blate']",5,SetC
+sunday,nydaus,441,['sunday'],6,SetC
+test,tset,442,"['tets', 'stet', 'sett', 'test']",4,SetC
+truth,tuhrt,443,['truth'],5,SetC
+direct,creitd,444,"['credit', 'triced', 'direct']",6,SetC
+view,iwve,445,"['view', 'wive']",4,SetC
+offer,reffo,446,['offer'],5,SetC
+indian,dinnai,447,['indian'],6,SetC
+hold,ohld,448,['hold'],4,SetC
+sleep,leesp,449,"['peels', 'sleep']",5,SetC
+easily,eslyai,450,"['easily', 'aileys']",6,SetC
+star,srta,451,"['tars', 'rats', 'arts', 'star', 'tsar']",4,SetD
+visit,sitvi,452,"['visit', 'vitis']",5,SetD
+finish,nsifhi,453,['finish'],6,SetD
+hour,rouh,454,['hour'],4,SetD
+piece,ieecp,455,['piece'],5,SetD
+choose,oochse,456,"['cohoes', 'choose']",6,SetD
+wish,hiws,457,['wish'],4,SetD
+india,aiind,458,['india'],5,SetD
+closed,scldeo,459,['closed'],6,SetD
+gone,ogen,460,['gone'],4,SetD
+build,ludib,461,['build'],5,SetD
+damage,gdmeaa,462,"['dagame', 'damage']",6,SetD
+gold,dlgo,463,['gold'],4,SetD
+river,erivr,464,['river'],5,SetD
+doctor,rtoodc,465,['doctor'],6,SetD
+king,gnki,466,['king'],4,SetD
+speak,epask,467,"['speak', 'peaks']",5,SetD
+notice,onteic,468,"['noetic', 'notice']",6,SetD
+july,lyuj,469,['july'],4,SetD
+write,eritw,470,['write'],5,SetD
+highly,lyhigh,471,['highly'],6,SetD
+east,aste,472,"['seta', 'sate', 'teas', 'seat', 'etas', 'east', 'eats', 'ates']",4,SetD
+eight,egtih,473,['eight'],5,SetD
+winter,iwretn,474,"['winter', 'twiner']",6,SetD
+sent,snet,475,"['nets', 'nest', 'sent', 'tens']",4,SetD
+funny,ynunf,476,['funny'],5,SetD
+broken,bknoer,477,['broken'],6,SetD
+bank,nkba,478,['bank'],4,SetD
+track,ractk,479,['track'],5,SetD
+theory,yhrteo,480,['theory'],6,SetD
+role,rleo,481,"['role', 'lore']",4,SetD
+album,uabml,482,['album'],5,SetD
+advice,vdceai,483,['advice'],6,SetD
+park,rpka,484,['park'],4,SetD
+peace,pecea,485,['peace'],5,SetD
+nation,ntnaio,486,"['nation', 'anoint']",6,SetD
+cool,colo,487,"['cool', 'loco']",4,SetD
+store,soert,488,"['tores', 'rotes', 'store']",5,SetD
+camera,earmac,489,['camera'],6,SetD
+bill,lbli,490,['bill'],4,SetD
+brown,wronb,491,['brown'],5,SetD
+agency,acynge,492,"['agency', 'cagney']",6,SetD
+save,eavs,493,"['vase', 'save', 'aves']",4,SetD
+moved,vomed,494,['moved'],5,SetD
+status,utssat,495,['status'],6,SetD
+rate,aret,496,"['tear', 'tare', 'rate', 'tera']",4,SetD
+ahead,heada,497,"['ahead', 'aahed']",5,SetD
+murder,rmeudr,498,['murder'],6,SetD
+fast,tafs,499,"['atfs', 'fats', 'fast']",4,SetD
+radio,ridoa,500,"['radio', 'aroid']",5,SetD
+flight,gfltih,501,['flight'],6,SetD
+blue,buel,502,"['lube', 'blue', 'bleu']",4,SetD
+allow,lloaw,503,['allow'],5,SetD
+coffee,fcefeo,504,['coffee'],6,SetD
+size,iesz,505,['size'],4,SetD
+cross,ssocr,506,['cross'],5,SetD
+actual,ualact,507,['actual'],6,SetD
+step,ptes,508,"['pest', 'pets', 'step', 'sept']",4,SetD
+loved,ledov,509,['loved'],5,SetD
+mobile,mblioe,510,"['mobile', 'emboli']",6,SetD
+fall,allf,511,['fall'],4,SetD
+speed,esped,512,"['deeps', 'speed', 'pedes']",5,SetD
+opened,pdeneo,513,"['depone', 'opened']",6,SetD
+felt,flet,514,"['left', 'felt']",4,SetD
+focus,ucofs,515,['focus'],5,SetD
+placed,lapedc,516,"['placed', 'claped']",6,SetD
+paid,apdi,517,['paid'],4,SetD
+extra,axter,518,"['taxer', 'extra']",5,SetD
+signed,sgdine,519,"['dinges', 'singed', 'signed', 'deigns', 'design']",6,SetD
+page,eagp,520,"['gape', 'page', 'peag']",4,SetD
+quick,cquki,521,['quick'],5,SetD
+eating,ngiate,522,['eating'],6,SetD
+vote,tove,523,"['vote', 'veto']",4,SetD
+clean,eacln,524,"['lance', 'clean']",5,SetD
+screen,reencs,525,"['censer', 'screen', 'secern']",6,SetD
+hate,etah,526,"['thea', 'heat', 'hate']",4,SetD
+scene,snece,527,"['cense', 'scene']",5,SetD
+speech,eespch,528,"['speech', 'cheeps']",6,SetD
+send,sedn,529,"['dens', 'ends', 'send']",4,SetD
+agree,gaeer,530,"['eager', 'gerea', 'ragee', 'agree', 'eagre']",5,SetD
+appear,repaap,531,['appear'],6,SetD
+hell,lehl,532,['hell'],4,SetD
+spend,despn,533,['spend'],5,SetD
+accept,tcpaec,534,['accept'],6,SetD
+lord,oldr,535,['lord'],4,SetD
+heavy,avyhe,536,"['heavy', 'yahve']",5,SetD
+bottom,motbot,537,['bottom'],6,SetD
+damn,ndma,538,['damn'],4,SetD
+coach,cohca,539,"['accho', 'coach']",5,SetD
+square,ruaesq,540,['square'],6,SetD
+poor,rpoo,541,['poor'],4,SetD
+train,ntria,542,"['train', 'riant']",5,SetD
+raised,radsei,543,"['saider', 'raised', 'draies', 'raides', 'arised']",6,SetD
+born,obnr,544,"['born', 'brno']",4,SetD
+costs,tscos,545,"['costs', 'scots']",5,SetD
+agreed,deagre,546,"['agreed', 'dragee', 'ageder', 'geared', 'rageed']",6,SetD
+walk,kwla,547,['walk'],4,SetD
+claim,imacl,548,['claim'],5,SetD
+demand,dnamde,549,"['damned', 'demand', 'madden']",6,SetD
+pick,kcpi,550,['pick'],4,SetD
+hotel,loeht,551,"['helot', 'hotel', 'thole']",5,SetD
+engine,enngei,552,['engine'],6,SetD
+hair,ahir,553,['hair'],4,SetD
+judge,egjdu,554,"['juged', 'judge']",5,SetD
+mental,emtnla,555,"['lament', 'mental', 'mantle', 'mantel']",6,SetD
+door,oord,556,"['odor', 'rood', 'door']",4,SetD
+reach,caher,557,['reach'],5,SetD
+fourth,turhof,558,['fourth'],6,SetD
+code,oecd,559,"['code', 'deco']",4,SetD
+floor,forlo,560,['floor'],5,SetD
+forced,rcedfo,561,['forced'],6,SetD
+sign,sgin,562,"['sign', 'gins', 'sing']",4,SetD
+image,mgeai,563,['image'],5,SetD
+remain,rinema,564,"['mainer', 'remain', 'marine', 'airmen']",6,SetD
+race,arec,565,"['care', 'race', 'acre', 'acer']",4,SetD
+brain,iabnr,566,"['brain', 'bairn']",5,SetD
+acting,angtic,567,"['acting', 'cating']",6,SetD
+lose,selo,568,"['sole', 'leos', 'sloe', 'lose']",4,SetD
+worst,twors,569,"['worst', 'worts']",5,SetD
+sexual,xeauls,570,['sexual'],6,SetD
+seem,emes,571,['seem'],4,SetD
+civil,ilvic,572,['civil'],5,SetD
+target,gtrtae,573,['target'],6,SetD
+safe,sfae,574,"['faes', 'safe']",4,SetD
+stock,ktcso,575,['stock'],5,SetD
+estate,teaets,576,"['estate', 'testae']",6,SetD
+loss,lsso,577,"['sols', 'loss']",4,SetD
+dance,ncade,578,"['caned', 'dance', 'acned']",5,SetD
+budget,udtegb,579,['budget'],6,SetD
+huge,ehug,580,['huge'],4,SetD
+beach,ahecb,581,['beach'],5,SetD
+silver,vlsrie,582,"['livers', 'silver', 'sliver']",6,SetD
+okay,koay,583,"['okay', 'kayo']",4,SetD
+color,roolc,584,['color'],5,SetD
+animal,aalnim,585,"['malian', 'lamina', 'animal', 'manila']",6,SetD
+goal,oagl,586,"['goal', 'gaol']",4,SetD
+grand,drnga,587,['grand'],5,SetD
+spread,dapsre,588,"['spared', 'parsed', 'spread', 'rasped', 'padres', 'drapes']",6,SetD
+ways,aswy,589,"['yaws', 'ways', 'sway']",4,SetD
+sweet,eetws,590,"['wetes', 'weest', 'sweet']",5,SetD
+memory,eymrom,591,['memory'],6,SetD
+army,raym,592,"['army', 'mary']",4,SetD
+touch,outhc,593,"['touch', 'couth']",5,SetD
+supply,yppuls,594,['supply'],6,SetD
+deep,epde,595,"['peed', 'deep']",4,SetD
+dream,meadr,596,"['dream', 'derma', 'mared', 'mader', 'ramed', 'armed']",5,SetD
+prison,nspiro,597,"['prions', 'orpins', 'prison']",6,SetD
+base,ebas,598,['base'],4,SetD
+drink,dirkn,599,['drink'],5,SetD
+window,idnwwo,600,['window'],6,SetD
