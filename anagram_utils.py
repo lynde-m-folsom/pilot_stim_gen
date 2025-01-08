@@ -66,13 +66,31 @@ def get_top_n_words(sorted_fdist, n):
     full_list = [word for sublist in top_n_sublists for word in sublist]
     return full_list
 
+def is_english_word(word):
+    """
+    Check if a word exists in WordNet's dictionary
+    
+    Args:
+        word (str): The word to check
+        
+    Returns:
+        bool: True if the word exists in WordNet, False otherwise
+    """
+    # Convert to lowercase for consistency
+    word = word.lower().strip()
+    
+    # Check if the word exists in WordNet
+    return len(wn.synsets(word)) > 0
 
-#function to shuffle the letters and append to the list
-def shuffle_letters(word):
-    shuffled = list(word)
-    random.shuffle(shuffled)
-    shuffled_word = "".join(shuffled)
-    return shuffled_word
+#function to shuffle the letters and append to the list if the word is not in the dictionary
+def shuffle_letters(word, min_length=4):
+    assert len(word) >= min_length, f"Word must be at least {min_length} characters long"
+    while is_english_word(word):
+        shuffled = list(word)
+        random.shuffle(shuffled)
+        word = "".join(shuffled)
+    
+    return word
 
 #function that takes a list uses the shuffle letters function and returns a list of shuffled words
 def shuffle_list(cat_full_list):
